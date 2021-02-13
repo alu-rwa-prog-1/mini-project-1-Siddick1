@@ -1,16 +1,10 @@
 # shopping_app
+# Here are the resources that I used for this assignment
 
-A shopping application
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-For the app title
+https://www.techgalery.com/2019/11/flutter-appbar-with-icon-title-and.html
+-For bottom navigation bar
+https://www.youtube.com/watch?v=elLkVWt7gRM
+https://material.io/components/bottom-navigation/flutter
+-For main page
+https://www.youtube.com/watch?v=PkY6Y-dmimE
