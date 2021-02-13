@@ -1,4 +1,3 @@
-# shopping_app
 # Here are the resources that I used for this assignment
 
 #-For the app title
